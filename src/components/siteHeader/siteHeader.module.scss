@@ -1,0 +1,11 @@
+@import "@/styles/variables.module.scss";
+
+.siteHeader {
+    margin-left: $sideMargin;
+    margin-right: $sideMargin;
+  
+    display: flex;
+    flex-direction: column;
+    gap: $verticalGap;
+    margin-bottom: $verticalGap;
+  }

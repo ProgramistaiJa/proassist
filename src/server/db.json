@@ -1,0 +1,96 @@
+{
+    "posts": [
+      {
+        "id": "1",
+        "category": "wiedza",
+        "title": "Proin semper mi orci, quis tempor enim placerat nec",
+        "date": "14.04.2021",
+        "lead": "Cras commodo, massa nec tempor posuere, sapien risus porttitor risus,  vitae maximus dui felis sed mi. Maecenas rutrum malesuada urna, in  luctus metus fringilla ac. Cras commodo, massa nec tempor posuere, sapien risus porttitor risus.",
+        "header": "Lorem ipsum",
+        "image": "http://localhost:3000/img/post-img.png",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "href": "href"
+      },
+      {
+        "id": "2",
+        "category": "inspiracje",
+        "title": "Proin semper mi orci, quis tempor enim placerat nec",
+        "date": "14.04.2021",
+        "lead": "Cras commodo, massa nec tempor posuere, sapien risus porttitor risus,  vitae maximus dui felis sed mi. Maecenas rutrum malesuada urna, in  luctus metus fringilla ac. Cras commodo, massa nec tempor posuere, sapien risus porttitor risus.",
+        "header": "Lorem ipsum",
+        "image": "http://localhost:3000/img/post-img.png",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "href": "href"
+      },
+      {
+        "id": "3",
+        "category": "interpretacje",
+        "title": "Proin semper mi orci, quis tempor enim placerat nec",
+        "date": "14.04.2021",
+        "lead": "Cras commodo, massa nec tempor posuere, sapien risus porttitor risus,  vitae maximus dui felis sed mi. Maecenas rutrum malesuada urna, in  luctus metus fringilla ac. Cras commodo, massa nec tempor posuere, sapien risus porttitor risus.",
+        "header": "Lorem ipsum",
+        "image": "http://localhost:3000/img/post-img.png",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "href": "href"
+      },{
+        "id": "4",
+        "category": "dostępne",
+        "title": "Proin semper mi orci, quis tempor enim placerat nec",
+        "date": "14.04.2021",
+        "lead": "Cras commodo, massa nec tempor posuere, sapien risus porttitor risus,  vitae maximus dui felis sed mi. Maecenas rutrum malesuada urna, in  luctus metus fringilla ac. Cras commodo, massa nec tempor posuere, sapien risus porttitor risus.",
+        "header": "Lorem ipsum",
+        "image": "http://localhost:3000/img/post-img.png",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "href": "href"
+      }, {
+        "id": "5",
+        "category": "wiedza",
+        "title": "Proin semper mi orci, quis tempor enim placerat nec",
+        "date": "14.04.2021",
+        "lead": "Cras commodo, massa nec tempor posuere, sapien risus porttitor risus,  vitae maximus dui felis sed mi. Maecenas rutrum malesuada urna, in  luctus metus fringilla ac. Cras commodo, massa nec tempor posuere, sapien risus porttitor risus.",
+        "header": "Lorem ipsum",
+        "image": "http://localhost:3000/img/post-img.png",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "href": "href"
+      },
+      {
+        "id": "6",
+        "category": "inspiracje",
+        "title": "Proin semper mi orci, quis tempor enim placerat nec",
+        "date": "14.04.2021",
+        "lead": "Cras commodo, massa nec tempor posuere, sapien risus porttitor risus,  vitae maximus dui felis sed mi. Maecenas rutrum malesuada urna, in  luctus metus fringilla ac. Cras commodo, massa nec tempor posuere, sapien risus porttitor risus.",
+        "header": "Lorem ipsum",
+        "image": "http://localhost:3000/img/post-img.png",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "href": "href"
+      },
+      {
+        "id": "7",
+        "category": "interpretacje",
+        "title": "Proin semper mi orci, quis tempor enim placerat nec",
+        "date": "14.04.2021",
+        "lead": "Cras commodo, massa nec tempor posuere, sapien risus porttitor risus,  vitae maximus dui felis sed mi. Maecenas rutrum malesuada urna, in  luctus metus fringilla ac. Cras commodo, massa nec tempor posuere, sapien risus porttitor risus.",
+        "header": "Lorem ipsum",
+        "image": "http://localhost:3000/img/post-img.png",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "href": "href"
+      },{
+        "id": "8",
+        "category": "dostępne",
+        "title": "Proin semper mi orci, quis tempor enim placerat nec",
+        "date": "14.04.2021",
+        "lead": "Cras commodo, massa nec tempor posuere, sapien risus porttitor risus,  vitae maximus dui felis sed mi. Maecenas rutrum malesuada urna, in  luctus metus fringilla ac. Cras commodo, massa nec tempor posuere, sapien risus porttitor risus.",
+        "header": "Lorem ipsum",
+        "image": "http://localhost:3000/img/post-img.png",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "href": "href"
+      }
+    ],
+    "comments": [
+      { "id": "1", "text": "a comment about post 1", "postId": "1" },
+      { "id": "2", "text": "another comment about post 1", "postId": "1" }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }

@@ -1,0 +1,11 @@
+.container {
+    // display: flex;
+    // justify-content: space-between;
+    // flex-wrap: wrap;
+    max-width: 1632px;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(366px, 1fr));
+    gap: 40px;
+    
+}

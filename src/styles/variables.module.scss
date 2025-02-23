@@ -1,0 +1,21 @@
+$blue: #444E8D;
+$red: #D94F4F;
+$green: #82E49A;
+$yellow: #FFBF42;
+$grey: #F4F4F4;
+
+$darkBlueText: #363B5C;
+
+$sideMargin: 144px;
+$verticalGap: 63px;
+ 
+:export {
+    blue: $blue;
+    red: $red;
+    green: $green;
+    yellow: $yellow;
+    grey: $grey;
+    sideMargin: $sideMargin;
+    verticalGap: $verticalGap;
+    darkBlueText: $darkBlueText;
+}

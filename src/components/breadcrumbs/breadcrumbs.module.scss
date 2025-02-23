@@ -1,0 +1,24 @@
+@import "@/styles/variables.module.scss";
+
+.breadcrumbs {
+    width: 100%;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #DDDDDD;
+
+    .item{
+        display: inline-block;
+
+        font-family: Open Sans;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 16.34px;
+        letter-spacing: 0px;
+
+        color: $darkBlueText;
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}

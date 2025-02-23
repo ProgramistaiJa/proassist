@@ -1,0 +1,37 @@
+.category{
+    width: min-content;
+    height: 457px;
+
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+
+    overflow: hidden;
+
+    
+    
+    .content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap:40px;
+        padding: 40px 0;
+
+        .name {
+            font-family: Open Sans;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 27.24px;
+            letter-spacing: 0%;
+            text-align: center;
+
+            color: #FFFFFF;
+
+
+        }
+    }
+  
+
+   
+}
+   

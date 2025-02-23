@@ -1,0 +1,54 @@
+.container{
+    padding-left: 144px;
+    padding-right: 144px;
+
+    margin-top: -100px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+
+   
+    h1, p {
+        max-width: 1318px;
+    }
+
+    h1{
+        font-family: Playfair Display;
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 46.66px;
+        letter-spacing: 0%;
+        color: #363B5C
+
+    }
+    .lead{
+        font-family: Open Sans;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 25px;
+        letter-spacing: 0%;
+        color: #363B5C
+    }
+    .header {
+        font-family: Open Sans;
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 38.13px;
+        letter-spacing: 0%;
+        color: #363B5C
+    }
+    .content {
+        font-family: Poppins;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 36px;
+        letter-spacing: 0px;
+        color: #000000;
+    }
+    .image {
+        position: relative;
+        aspect-ratio: 1318 / 709;
+        object-fit: cover;
+    }
+}

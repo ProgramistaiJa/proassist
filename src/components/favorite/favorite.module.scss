@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    justify-content:flex-end;
+    
+
+    .favorite{
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+    
+        img {
+            margin-right: 10px;
+        }
+    
+    }
+}
