@@ -1,6 +1,7 @@
+@import "@/styles/variables.module.scss";
 .container{
-    padding-left: 144px;
-    padding-right: 144px;
+    padding-left: $sideMargin;
+    padding-right: $sideMargin;
 
     margin-top: -100px;
 

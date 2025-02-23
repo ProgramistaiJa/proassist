@@ -1,9 +1,10 @@
+@import "@/styles/variables.module.scss";
 .wrapper{
     
     background: #F4F4F4;
-    padding-left: 144px;
-    padding-right: 144px;
-    width: 1920px;
+    padding-left: $sideMargin;
+    padding-right: $sideMargin;
+    max-width: 1920px;
     height: 717px;
     
 
